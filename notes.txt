@@ -1,0 +1,13 @@
+Angular HTTP Inerceptors:
+They are actually easy ways to globally capture
+and modify the HTTP requests/responses of out application
+
+1. Modify the headers(Authentication)
+2. Handle http errors in a single place
+3. Trace/Profile Requests
+
+
+LoginComponent
+RegisterComponent
+HelpComponent
+AuthenticationService
